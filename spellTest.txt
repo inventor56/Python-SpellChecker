@@ -1,0 +1,5 @@
+Write code that can automatically distinguish different types of Japanese poetry. Include any other type of poetry defined based on number fo syllables adn lines that you may know. The key tto successfully completing this project is your ability tot write codes that will determine the number of syllables in a word.
+
+Write your own functions implementing th following algorithm: Newton-Raphson method, successive bisection ands the secant method.
+
+Once hte user has selected an appropriate text file with sales record, display a window with bar chart showing profit orr loss on each item. Also write ott file, a detailed profit aad loss report. Note that multiple items, spelt exactly hte same, may appear more than once iin the text file.
